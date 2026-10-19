@@ -43,6 +43,6 @@ The `programs` folder contains separate demonstrations for strings, lists, tuple
 The project includes normal, boundary, invalid-input and duplicate-record test cases in the documentation.
 
 ## Student
-Siddhesh Pradip Vikhe
+Shraddha Sanjay Chumbhale
 FY B.Tech AI/ML
 Sanjivani University
